@@ -16,11 +16,11 @@ h1 {
 }
 h3 {
     text-align: left;
-	font-size: 30px;
+	font-size: 20px;
 }
 h4{
     text-align: right;
-	font-size: 30px;
+	font-size: 20px;
 }
 
 #menu {
@@ -41,8 +41,7 @@ h4{
 }
 
 #exercicio1 {
-	
-    width: 50%;
+	width: 50%;
     height: 600px;
     float: left;
 }
@@ -62,3 +61,11 @@ p {
     text-align: left;
     font-size: 20px;
 }
+
+.imagemcomputacional {
+    width: 35%;
+    height: 400px;
+    padding: 100px;
+    text-align: center;
+}
+
